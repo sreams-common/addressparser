@@ -1,0 +1,94 @@
+{
+  "_args": [
+    [
+      "addressparser@1.0.1",
+      "C:\\xampp\\htdocs\\spa-platform\\node_modules\\buildmail"
+    ],
+    [
+      "addressparser@git+https://github.com/kimpton/addressparser.git",
+      "C:\\Projects\\spa"
+    ]
+  ],
+  "_from": "git+https://github.com/kimpton/addressparser.git",
+  "_id": "addressparser@1.0.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/addressparser",
+  "_nodeVersion": "5.5.0",
+  "_npmOperationalInternal": {
+    "host": "packages-6-west.internal.npmjs.com",
+    "tmp": "tmp/addressparser-1.0.1.tgz_1454787525160_0.050130771240219474"
+  },
+  "_npmUser": {
+    "email": "andris@kreata.ee",
+    "name": "andris"
+  },
+  "_npmVersion": "3.3.12",
+  "_phantomChildren": {},
+  "_requested": {
+    "hosted": {
+      "directUrl": "https://raw.githubusercontent.com/kimpton/addressparser/master/package.json",
+      "gitUrl": "git://github.com/kimpton/addressparser.git",
+      "httpsUrl": "git+https://github.com/kimpton/addressparser.git",
+      "shortcut": "github:kimpton/addressparser",
+      "ssh": "git@github.com:kimpton/addressparser.git",
+      "sshUrl": "git+ssh://git@github.com/kimpton/addressparser.git",
+      "type": "github"
+    },
+    "name": "addressparser",
+    "raw": "addressparser@git+https://github.com/kimpton/addressparser.git",
+    "rawSpec": "git+https://github.com/kimpton/addressparser.git",
+    "scope": null,
+    "spec": "git+https://github.com/kimpton/addressparser.git",
+    "type": "hosted"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "git+https://github.com/kimpton/addressparser.git#4ae91f6c237fbce9d554cfe82fb6e3fbb0d04f70",
+  "_shasum": "fce11d5a58aa56c142746f24c04f80850b1505f3",
+  "_shrinkwrap": null,
+  "_spec": "addressparser@git+https://github.com/kimpton/addressparser.git",
+  "_where": "C:\\Projects\\spa",
+  "author": {
+    "name": "Andris Reinman"
+  },
+  "bugs": {
+    "url": "https://github.com/andris9/addressparser/issues"
+  },
+  "dependencies": {},
+  "description": "Parse e-mail addresses",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "grunt": "^0.4.5",
+    "grunt-eslint": "^17.3.1",
+    "grunt-mocha-test": "^0.12.7",
+    "mocha": "^2.4.5"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "47afbe1a2a9262191db6838e4fd1d39b40821746",
+    "tarball": "https://registry.npmjs.org/addressparser/-/addressparser-1.0.1.tgz"
+  },
+  "gitHead": "a0c7c66fe90950d75c14edb1116da8229a10f84b",
+  "homepage": "https://github.com/andris9/addressparser#readme",
+  "license": "MIT",
+  "main": "lib/addressparser.js",
+  "maintainers": [
+    {
+      "name": "andris",
+      "email": "andris@node.ee"
+    }
+  ],
+  "name": "addressparser",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andris9/addressparser.git"
+  },
+  "scripts": {
+    "test": "grunt"
+  },
+  "version": "1.0.1"
+}
